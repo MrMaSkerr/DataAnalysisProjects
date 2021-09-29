@@ -1,3 +1,3 @@
-# DataAnalysisProjects
+# DataAnalyticsProjects
 
 
